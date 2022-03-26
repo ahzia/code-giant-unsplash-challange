@@ -1,6 +1,3 @@
-
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # code-giant-unsplash-challange
 
 ## ScreenShots
