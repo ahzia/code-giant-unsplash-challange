@@ -2,6 +2,6 @@ body {
   background-color: black;
 }
 .image{
-    width:700px;
-    height: 700px;
+   width: 50%;
+   margin: auto;
 }

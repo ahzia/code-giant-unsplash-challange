@@ -21,4 +21,3 @@ export default class UnsplashAPI {
         });
     }
 }
-// https://api.unsplash.com/photos/random?client_id=ajg8dHDGoJYcHta1PMZEqAm5L2xMPAwezKLwnc4wBgc&COUNT=10
